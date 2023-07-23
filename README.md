@@ -1,6 +1,14 @@
 <<<<<<< HEAD
 # Fruit_Bucket_List_Project
 Backend Project in Laravel (only focused on backend)
+
+# Project Setup for your local machine
+ 1.  Select location "C:\xampp\htdocs" to clone folder from github to your local device, then git clone [url]
+ 2.  Run xampp
+ 3.  Import db file from "Setup Db for Website" to your phpMyAdmin local server
+ 4.  Change db name in .env
+
+    Enjoy!
 =======
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
